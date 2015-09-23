@@ -1,0 +1,1088 @@
+[ 2015-09-23T09:08:59+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.033002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 模板不存在:D:/wamp/www/20150923shop/shop/Home/View/User/login.html
+
+[ 2015-09-23T09:10:10+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-23T20:47:32+08:00 ] 127.0.0.1 /20150923shop/shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000582s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000755s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+
+[ 2015-09-23T20:47:56+08:00 ] 127.0.0.1 /20150923shop/shop/index.php?r=/home/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000526s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000521s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2015-09-23T20:48:10+08:00 ] 127.0.0.1 /20150923shop/shop/index.php?r=/home/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000405s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000539s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000567s ]
+
+[ 2015-09-23T20:48:30+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.010343s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026750s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026888s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2015-09-23T20:54:03+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/user/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005971s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006087s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2015-09-23T20:58:31+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/goods/shoulist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001283s ]
+ERR: 非法操作:shoulist
+
+[ 2015-09-23T20:58:56+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006471s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000596s ]
+
+[ 2015-09-23T20:59:08+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/goods/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000251s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006841s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006978s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2015-09-23T21:33:12+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001973s ]
+ERR: 模板不存在:D:/wamp/www/20150923shop/shop/Home/View/Index/index.html
+
+[ 2015-09-23T21:33:53+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000209s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006752s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000678s ]
+
+[ 2015-09-23T21:36:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000282s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009921s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010048s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000876s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001243s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001608s ]
+
+[ 2015-09-23T21:36:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2015-09-23T21:36:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+
+[ 2015-09-23T21:36:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2015-09-23T21:36:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2015-09-23T21:36:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000966s ]
+
+[ 2015-09-23T21:36:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+
+[ 2015-09-23T21:36:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2015-09-23T21:36:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2015-09-23T21:36:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2015-09-23T21:36:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/111.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2015-09-23T21:36:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+
+[ 2015-09-23T21:36:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/3_thumb_G_1241422082679.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+
+[ 2015-09-23T21:36:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/1240802922410634065.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2015-09-23T21:36:41+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/1240803062307572427.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+
+[ 2015-09-23T21:36:41+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/1240803144788047486.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2015-09-23T21:36:41+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+
+[ 2015-09-23T21:36:41+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/1_thumb_G_1240902890710.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2015-09-23T21:36:41+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2015-09-23T21:36:41+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+
+[ 2015-09-23T21:36:41+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+
+[ 2015-09-23T21:36:41+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+
+[ 2015-09-23T21:36:41+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2015-09-23T21:36:41+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+
+[ 2015-09-23T21:36:41+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000196s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000343s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013209s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013346s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000604s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000792s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000941s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/3_thumb_G_1241422082679.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/1240803062307572427.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/1240802922410634065.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/1240803144788047486.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/1_thumb_G_1240902890710.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006449s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001056s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/111.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+
+[ 2015-09-23T21:36:51+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+
+[ 2015-09-23T21:36:52+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+
+[ 2015-09-23T21:36:52+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+
+[ 2015-09-23T21:36:52+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2015-09-23T21:36:52+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2015-09-23T21:36:52+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2015-09-23T21:36:52+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2015-09-23T21:36:52+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2015-09-23T21:36:53+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2015-09-23T21:36:53+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2015-09-23T21:36:53+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2015-09-23T21:36:53+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2015-09-23T21:36:54+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+
+[ 2015-09-23T21:36:57+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2015-09-23T21:36:57+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2015-09-23T21:36:58+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+
+[ 2015-09-23T21:36:58+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2015-09-23T21:36:58+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2015-09-23T21:36:58+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000575s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001375s ]
+
+[ 2015-09-23T21:36:58+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/3_thumb_G_1241422082679.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+
+[ 2015-09-23T21:36:58+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+
+[ 2015-09-23T21:36:58+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+
+[ 2015-09-23T21:36:58+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000219s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001136s ]
+
+[ 2015-09-23T21:36:59+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2015-09-23T21:37:39+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+
+[ 2015-09-23T21:37:39+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+
+[ 2015-09-23T21:37:39+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+
+[ 2015-09-23T21:37:39+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/3_thumb_G_1241422082679.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002031s ]
+
+[ 2015-09-23T21:37:39+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2015-09-23T21:37:39+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2015-09-23T21:37:39+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000999s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000232s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000398s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011427s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011706s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000820s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000997s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001194s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001836s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002272s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/1240803062307572427.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/1240803144788047486.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/111.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/1_thumb_G_1240902890710.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000921s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/1240802922410634065.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2015-09-23T21:37:40+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/3_thumb_G_1241422082679.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+
+[ 2015-09-23T21:37:41+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+
+[ 2015-09-23T21:37:42+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+
+[ 2015-09-23T21:37:49+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2015-09-23T21:37:49+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+
+[ 2015-09-23T21:37:49+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2015-09-23T21:37:49+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2015-09-23T21:37:49+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/3_thumb_G_1241422082679.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2015-09-23T21:37:49+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2015-09-23T21:37:49+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2015-09-23T21:37:49+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2015-09-23T21:37:49+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+
+[ 2015-09-23T21:37:49+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+
+[ 2015-09-23T21:37:49+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2015-09-23T21:39:11+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2015-09-23T21:39:11+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+
+[ 2015-09-23T21:39:11+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2015-09-23T21:39:11+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2015-09-23T21:39:11+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2015-09-23T21:39:13+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000305s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010508s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010639s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000981s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/1240803062307572427.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/1240803144788047486.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/111.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000365s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001030s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/3_thumb_G_1241422082679.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/1240802922410634065.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/1_thumb_G_1240902890710.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2015-09-23T21:39:14+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2015-09-23T21:39:17+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2015-09-23T21:39:17+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2015-09-23T21:39:17+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+
+[ 2015-09-23T21:39:17+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+
+[ 2015-09-23T21:39:17+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2015-09-23T21:39:17+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2015-09-23T21:39:17+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+
+[ 2015-09-23T21:39:17+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+
+[ 2015-09-23T21:42:04+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2015-09-23T21:42:04+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2015-09-23T21:42:04+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2015-09-23T21:42:04+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+
+[ 2015-09-23T21:42:04+08:00 ] 127.0.0.1 /20150923shop/shop/index.php/home/index/images/top_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+
+[ 2015-09-23T22:25:07+08:00 ] 127.0.0.1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000168s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000285s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018323s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018440s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015584s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001920s ]
+
