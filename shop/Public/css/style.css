@@ -112,7 +112,7 @@ visibility:hidden;
   .AreaM{ width:515px; float:left; padding-left:12px;}
   
 .AreaL h3{ background:url(../images/tit3.gif) no-repeat;  height:29px;line-height:29px; color:#FFF}
-.AreaL h3 span{ background:none; color:#fff; font-weight:normal ;font-size:14px;height:29px;line-height:29x;}
+.AreaL h3 span{ background:none; color:#fff; font-weight:normal ;font-size:14px;height:29px;line-height:29px;}
 
 /* ====================
      导航部分
@@ -344,7 +344,7 @@ visibility:hidden;
    
      .helpTitBg dt a{font-weight:bold; color:#0963c4; text-decoration:none;}
 	 .helpTitBg dd{ }
-   .helpTitBg dd a{color:#333; text-decoration:none; padding:0px 0px 0px px;}
+   .helpTitBg dd a{color:#333; text-decoration:none; padding:0px 0px 0px 0px;}
 
    /*相关商品 模_板_堂_出_品*/
    .boxCenterList ul{height:1%; margin-bottom:5px; border-bottom:1px dotted #ccc}

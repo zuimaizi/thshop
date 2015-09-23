@@ -3,11 +3,11 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title></title>
-    <link href="/20150923shop/shop/Public/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="/Public/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 <body class="index_body">
 <div class="block clearfix" style="position: relative; height: 98px;">
-    <a href="#" name="top"><img class="logo" src="./images/logo.gif"></a>
+    <a href="#" name="top"><img class="logo" src="/Public/images/logo.gif"></a>
 
     <div id="topNav" class="clearfix">
         <div style="float: left;">
@@ -44,21 +44,21 @@
 
     <form id="searchForm" method="get" action="#">
         <input name="keywords" id="keyword" type="text" />
-        <input name="imageField" value=" " class="go" style="cursor: pointer; background: url('./images/sousuo.gif') no-repeat scroll 0% 0% transparent; width: 39px; height: 20px; border: medium none; float: left; margin-right: 15px; vertical-align: middle;" type="submit" />
+        <input name="imageField" value=" " class="go" style="cursor: pointer; background: url('/Public/images/sousuo.gif') no-repeat scroll 0% 0% transparent; width: 39px; height: 20px; border: medium none; float: left; margin-right: 15px; vertical-align: middle;" type="submit" />
 
     </form>
 </div>
 <div class="blank5"></div>
 <div class="header_bg_b">
     <div class="f_l" style="padding-left: 10px;">
-        <img src="./images/biao6.gif" />
+        <img src="/Public/images/biao6.gif" />
         北京市区，现在下单(截至次日00:30已出库)，<b>明天上午(9-14点)</b>送达 <b>免运费火热进行中！</b>
     </div>
     <div class="f_r" style="padding-right: 10px;">
-        <img style="vertical-align: middle;" src="./images/biao3.gif">
+        <img style="vertical-align: middle;" src="/Public/images/biao3.gif">
                     <span class="cart" id="ECS_CARTINFO">
                         <a href="#" title="查看购物车">您的购物车中有 0 件商品，总计金额 ￥0.00元。</a></span>
-        <a href="#"><img style="vertical-align: middle;" src="./images/biao7.gif"></a>
+        <a href="#"><img style="vertical-align: middle;" src="/Public/images/biao7.gif"></a>
 
     </div>
 </div>
@@ -111,9 +111,9 @@
                 <div class="box_1">
                     <div class="top10List clearfix">
                         <ul class="clearfix">
-                            <img src="./images/top_1.gif" class="iteration">
+                            <img src="/Public/images/top_1.gif" class="iteration">
                             <li class="topimg">
-                                <a href="#"><img src="./images/3_thumb_G_1241422082679.jpg" alt="" class="samllimg"></a>
+                                <a href="#"><img src="/Public/images/3_thumb_G_1241422082679.jpg" alt="" class="samllimg"></a>
                             </li>
 
                             <li class="iteration1">
@@ -122,9 +122,9 @@
                             </li>
                         </ul>
                         <ul class="clearfix">
-                            <img src="./images/top_2.gif" class="iteration">
+                            <img src="/Public/images/top_2.gif" class="iteration">
                             <li class="topimg">
-                                <a href="#"><img src="./images/24_thumb_G_1241971981429.jpg" alt="" class="samllimg"></a>
+                                <a href="#"><img src="/Public/images/24_thumb_G_1241971981429.jpg" alt="" class="samllimg"></a>
                             </li>
 
                             <li class="iteration1">
@@ -133,9 +133,9 @@
                             </li>
                         </ul>
                         <ul class="clearfix">
-                            <img src="./images/top_3.gif" class="iteration">
+                            <img src="/Public/images/top_3.gif" class="iteration">
                             <li class="topimg">
-                                <a href="#"><img src="./images/12_thumb_G_1241965978410.jpg" alt="" class="samllimg"></a>
+                                <a href="#"><img src="/Public/images/12_thumb_G_1241965978410.jpg" alt="" class="samllimg"></a>
                             </li>
 
                             <li class="iteration1">
@@ -144,7 +144,7 @@
                             </li>
                         </ul>
                         <ul class="clearfix">
-                            <img src="./images/top_4.gif" class="iteration">
+                            <img src="/Public/images/top_4.gif" class="iteration">
 
                             <li>
                                 <a href="#" title="">诺基亚E66</a><br />
@@ -152,7 +152,7 @@
                             </li>
                         </ul>
                         <ul class="clearfix">
-                            <img src="./images/top_5.gif" class="iteration">
+                            <img src="/Public/images/top_5.gif" class="iteration">
 
                             <li>
                                 <a href="#" title="">多普达Touc...</a><br />
@@ -160,7 +160,7 @@
                             </li>
                         </ul>
                         <ul class="clearfix">
-                            <img src="./images/top_6.gif" class="iteration">
+                            <img src="/Public/images/top_6.gif" class="iteration">
 
                             <li>
                                 <a href="#" title="">三星BC01</a><br />
@@ -168,7 +168,7 @@
                             </li>
                         </ul>
                         <ul class="clearfix">
-                            <img src="./images/top_7.gif" class="iteration">
+                            <img src="/Public/images/top_7.gif" class="iteration">
 
                             <li>
                                 <a href="#" title="">飞利浦9@9v</a><br />
@@ -181,9 +181,9 @@
             <div class="blank5"></div><div class="box">  <h3><span>品牌专区</span></h3>
             <div class="box_1">
                 <div class=" brands clearfix">
-                    <a href="#"><img src="./images/1240803062307572427.gif" alt="诺基亚 (7)"></a>
-                    <a href="#"><img src="./images/1240802922410634065.gif" alt="摩托罗拉 (1)"></a>
-                    <a href="#"><img src="./images/1240803144788047486.gif" alt="多普达 (1)"></a>
+                    <a href="#"><img src="/Public/images/1240803062307572427.gif" alt="诺基亚 (7)"></a>
+                    <a href="#"><img src="/Public/images/1240802922410634065.gif" alt="摩托罗拉 (1)"></a>
+                    <a href="#"><img src="/Public/images/1240803144788047486.gif" alt="多普达 (1)"></a>
                 </div>
             </div>
         </div>
@@ -192,7 +192,7 @@
         <div class="AreaM">
             <div class="box clearfix">
                 <div id="focus">
-                    <img src="./images/111.jpg" width="515" height="160" alt="" />
+                    <img src="/Public/images/111.jpg" width="515" height="160" alt="" />
                 </div>
             </div>
             <div class="blank"></div>
@@ -209,7 +209,7 @@
             <div id="show_hot_area" class="clearfix">
                 <div class="goodsItem">
 
-                    <a href="#"><img src="./images/9_thumb_G_1241511871555.jpg" alt="诺基亚E66" class="goodsimg"></a><br />
+                    <a href="#"><img src="/Public/images/9_thumb_G_1241511871555.jpg" alt="诺基亚E66" class="goodsimg"></a><br />
                     <p class="f1"><a href="#" title="诺基亚E66">诺基亚E66</a></p>
                     <font class="market">￥2758元</font><br />
                     <font class="f1">
@@ -217,7 +217,7 @@
                 </div>
                 <div class="goodsItem">
 
-                    <a href="#"><img src="./images/1_thumb_G_1240902890710.jpg" alt="KD876" class="goodsimg"></a><br />
+                    <a href="#"><img src="/Public/images/1_thumb_G_1240902890710.jpg" alt="KD876" class="goodsimg"></a><br />
                     <p class="f1"><a href="#" title="KD876">KD876</a></p>
                     <font class="market">￥1666元</font><br />
                     <font class="f1">
@@ -225,7 +225,7 @@
                 </div>
                 <div class="goodsItem">
 
-                    <a href="#"><img src="./images/8_thumb_G_1241425513488.jpg" alt="飞利浦9@9v" class="goodsimg"></a><br />
+                    <a href="#"><img src="/Public/images/8_thumb_G_1241425513488.jpg" alt="飞利浦9@9v" class="goodsimg"></a><br />
                     <p class="f1"><a href="#" title="飞利浦9@9v">飞利浦9@9v</a></p>
                     <font class="market">￥479元</font><br />
                     <font class="f1">
@@ -247,7 +247,7 @@
             <div id="show_best_area" class="clearfix">
                 <div class="goodsItem">
 
-                    <a href="#"><img src="./images/9_thumb_G_1241511871555.jpg" alt="诺基亚E66" class="goodsimg"></a><br />
+                    <a href="#"><img src="/Public/9_thumb_G_1241511871555.jpg" alt="诺基亚E66" class="goodsimg"></a><br />
                     <p class="f1"><a href="#" title="诺基亚E66">诺基亚E66</a></p>
 
 
@@ -258,7 +258,7 @@
                 </div>
                 <div class="goodsItem">
 
-                    <a href="#"><img src="./images/1_thumb_G_1240902890710.jpg" alt="KD876" class="goodsimg"></a><br />
+                    <a href="#"><img src="/Public/images/1_thumb_G_1240902890710.jpg" alt="KD876" class="goodsimg"></a><br />
                     <p class="f1"><a href="#" title="KD876">KD876</a></p>
 
 
@@ -269,7 +269,7 @@
                 </div>
                 <div class="goodsItem">
 
-                    <a href="#"><img src="./images/8_thumb_G_1241425513488.jpg" alt="飞利浦9@9v" class="goodsimg"></a><br />
+                    <a href="#"><img src="/Public/images/8_thumb_G_1241425513488.jpg" alt="飞利浦9@9v" class="goodsimg"></a><br />
                     <p class="f1"><a href="#" title="飞利浦9@9v">飞利浦9@9v</a></p>
 
 
@@ -294,7 +294,7 @@
             <div id="show_new_area" class="clearfix">
                 <div class="goodsItem">
 
-                    <a href="#"><img src="./images/9_thumb_G_1241511871555.jpg" alt="诺基亚E66" class="goodsimg"></a><br />
+                    <a href="#"><img src="/Public/images/9_thumb_G_1241511871555.jpg" alt="诺基亚E66" class="goodsimg"></a><br />
                     <p class="f1"><a href="#" title="诺基亚E66">诺基亚E66</a></p>
                     <font class="market">￥2758元</font><br />
                     <font class="f1">
@@ -302,7 +302,7 @@
                 </div>
                 <div class="goodsItem">
 
-                    <a href="#"><img src="./images/1_thumb_G_1240902890710.jpg" alt="KD876" class="goodsimg"></a><br />
+                    <a href="#"><img src="/Public/images/1_thumb_G_1240902890710.jpg" alt="KD876" class="goodsimg"></a><br />
                     <p class="f1"><a href="#" title="KD876">KD876</a></p>
                     <font class="market">￥1666元</font><br />
                     <font class="f1">
@@ -310,7 +310,7 @@
                 </div>
                 <div class="goodsItem">
 
-                    <a href="#"><img src="./images/8_thumb_G_1241425513488.jpg" alt="飞利浦9@9v" class="goodsimg"></a><br />
+                    <a href="#"><img src="/Public/images/8_thumb_G_1241425513488.jpg" alt="飞利浦9@9v" class="goodsimg"></a><br />
                     <p class="f1"><a href="#" title="飞利浦9@9v">飞利浦9@9v</a></p>
                     <font class="market">￥479元</font><br />
                     <font class="f1">
@@ -417,7 +417,7 @@
 
 <div class="blank"></div>
 <div class="block">
-    <a href="#" target="_blank" title="YONGDA商城"><img alt="YONGDA商城" src="./images/di.jpg"></a>
+    <a href="#" target="_blank" title="YONGDA商城"><img alt="YONGDA商城" src="/Public/images/di.jpg"></a>
     <div class="blank"></div>
 </div>
 <div class="block">
@@ -468,10 +468,10 @@
 <div id="bottomNav" class="box block">
     <div class="box_1">
         <div class="links clearfix">
-            <a href="#" target="_blank" title="YONGDA商城"><img src="./images/ecmoban_link.jpg" alt="YONGDA商城" border="0"></a>
+            <a href="#" target="_blank" title="YONGDA商城"><img src="/Public/images/ecmoban_link.jpg" alt="YONGDA商城" border="0"></a>
 
             <a href="#" target="_blank" title="YONGDA 网上商店管理系统">
-                <img src="./images/yongda_logo.gif" alt="YONGDA 网上商店管理系统" border="0" />
+                <img src="/Public/images/yongda_logo.gif" alt="YONGDA 网上商店管理系统" border="0" />
             </a>
 
 
