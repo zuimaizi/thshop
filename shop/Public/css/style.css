@@ -524,7 +524,7 @@ visibility:hidden;
    /*底部导航+友情链接*/
    #bottomNav{}
    .bNavList{ height:22px; line-height:22px; padding:0 12px; color:#666; text-align:center;}
-   .links{border:1px solid #fff; background:#; padding:5px;}
+   .links{border:1px solid #fff; background: none; padding:5px;}
    .links a{color:#333; text-decoration:none;}
    .bNavList img{_position:relative; top:8px;}
    .links img{width:88px; height:30px; margin:5px;}
